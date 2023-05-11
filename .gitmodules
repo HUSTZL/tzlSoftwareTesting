@@ -1,0 +1,6 @@
+[submodule "实践作业3 TDD/tzlMine"]
+	path = 实践作业3 TDD/tzlMine
+	url = git@github.com:HUSTZL/tzlMine.git
+[submodule "作业3 单元测试/tzlPMSforUnitTest"]
+	path = 作业3 单元测试/tzlPMSforUnitTest
+	url = git@github.com:HUSTZL/tzlPigManageSystem.git
